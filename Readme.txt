@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Mọi người dùng template này để build website nhé!
+Có thể down về là chỉnh sửa màu + ảnh phù hợp với CLB
